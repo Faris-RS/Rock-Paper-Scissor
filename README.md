@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-A simple Rock Paper Scissors game built with Next.js. Challenge the computer, make your moves, and compete for points in this classic game.
+A simple Rock Paper Scissors game built with Next.js, TailwindCSS and TypeScipt. Challenge the computer, make your moves, and compete for points in this classic game.
 
 ## How to play
 Firstly, clone this repo, 
