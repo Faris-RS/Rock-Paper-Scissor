@@ -1,22 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rock Paper Scissors Game
 
-## Getting Started
+A simple Rock Paper Scissors game built with Next.js. Challenge the computer, make your moves, and compete for points in this classic game.
 
-First, run the development server:
+## How to play
+Firstly, clone this repo, 
+```bash
+git clone https://github.com/Faris-RS/Rock-Paper-Scissor.git
+```
 
+then install necessary dependencies
+```bash
+npm install
+# or
+yarn install
+```
+then run the project. It is that simple.
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Acknowledgments
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project is inspired by [mamad-1999's Rock Paper Scissors repo](https://github.com/mamad-1999/Rock-paper-scissor.git). We thank them for their contributions and share functionalities and design with their project for educational purposes.
+
+
+## Additional Information
+
+This project is built with [Next.js](https://nextjs.org/) and uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
